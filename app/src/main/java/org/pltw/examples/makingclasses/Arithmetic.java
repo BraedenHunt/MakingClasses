@@ -56,7 +56,7 @@ public class Arithmetic {
         return operand1 * operand2;
     }
 
-    public static double divide(int operand1, int operand2){
+    public static int divide(int operand1, int operand2){
         return operand1 / operand2;
     }
 
